@@ -73,7 +73,7 @@ public class jm : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/22008686/Rotating-the-Gaming-Object/assets/118916413/3048447b-b456-4aab-8a93-ec790c4dbd6c)
+![Screenshot 2024-03-06 143045](https://github.com/22008686/Rotating-the-Gaming-Object/assets/118916413/cf219ae1-d5c9-4bf6-8b20-9fe9d9735d6f)
 
 ## Result:
 
